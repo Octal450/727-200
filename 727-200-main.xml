@@ -789,16 +789,16 @@
 			<file>Aircraft/727-200/Nasal/autopilot-v-interface.nas</file>
 		</autopilot_v>
 		<autopush>
-			<file>Aircraft/MD-80/Nasal/Autopush/autopush.nas</file>
+			<file>Aircraft/727-200/Nasal/Autopush/autopush.nas</file>
 		</autopush>
 		<autopush_driver>
-			<file>Aircraft/MD-80/Nasal/Autopush/driver.nas</file>
+			<file>Aircraft/727-200/Nasal/Autopush/driver.nas</file>
 		</autopush_driver>
 		<dynarr>
-			<file>Aircraft/MD-80/Nasal/Autopush/dynarr.nas</file>
+			<file>Aircraft/727-200/Nasal/Autopush/dynarr.nas</file>
 		</dynarr>
 		<autopush_route>
-			<file>Aircraft/MD-80/Nasal/Autopush/route.nas</file>
+			<file>Aircraft/727-200/Nasal/Autopush/route.nas</file>
 		</autopush_route>
 	</nasal>
 
